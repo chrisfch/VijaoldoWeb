@@ -1,4 +1,4 @@
-from AdministracionApp.views import *
+from .views import index
 from django.urls import path
 
 urlpatterns = [
